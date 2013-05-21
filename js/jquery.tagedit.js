@@ -104,7 +104,7 @@
 		}
 		else {
 			// Elementname does not match the expected format, exit
-			alert('elementname dows not match the expected format (regexp: '+baseNameRegexp+')')
+			alert('elementname does not match the expected format (regexp: '+baseNameRegexp+')')
 			return;
 		}
 
